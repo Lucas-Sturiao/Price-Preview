@@ -47,7 +47,9 @@ Siga os passos abaixo para testar o pipeline completo na sua máquina.
 É necessário ter o git instalado e configurado na sua Máquina:
 
 ```bash
-git clone [https://github.com/lucas-sturiao/price_preview.git](https://github.com/lucas-sturiao/price_preview.git)
+git clone https://github.com/lucas-sturiao/price_preview.git
+```
+```
 cd price_preview
 ```
 
